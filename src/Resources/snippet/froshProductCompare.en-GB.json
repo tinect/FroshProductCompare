@@ -8,7 +8,6 @@
             "empty": "No product is added to compare"
         },
         "offcanvas": {
-            "continueShopping": "Continue Shopping",
             "header": "Products to Compare",
             "compareNow": "Compare Now"
         },
@@ -19,17 +18,11 @@
         "section": {
             "overview": {
                 "title": "Overview",
-                "manufacturer": "Manufacturer",
-                "price": "Price",
-                "description": "Description",
                 "rating": "Rating",
                 "category": "Category"
             },
             "specification": {
                 "title": "Specification",
-                "manufacturer": "Manufacturer",
-                "price": "Price",
-                "description": "Description",
                 "rating": "Rating",
                 "category": "Category"
             }

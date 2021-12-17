@@ -8,7 +8,6 @@
             "empty": "Zum Vergleich wurde kein Produkt hinzugefügt"
         },
         "offcanvas": {
-            "continueShopping": "Mit dem Einkaufen fortfahren",
             "header": "Produkte zum Vergleichen",
             "compareNow": "Jetzt vergleichen"
         },
@@ -19,17 +18,11 @@
         "section": {
             "overview": {
                 "title": "Überblick",
-                "manufacturer": "Hersteller",
-                "price": "Preis",
-                "description": "Beschreibung",
                 "rating": "Wertung",
                 "category": "Kategorie"
             },
             "specification": {
                 "title": "Spezifikation",
-                "manufacturer": "Hersteller",
-                "price": "Preis",
-                "description": "Beschreibung",
                 "rating": "Bewertung",
                 "category": "Kategorie"
             }

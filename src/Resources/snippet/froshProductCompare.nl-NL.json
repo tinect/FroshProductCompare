@@ -3,23 +3,16 @@
         "section": {
             "specification": {
                 "category": "Categorie",
-                "description": "Beschrijving",
-                "price": "Prijs",
-                "manufacturer": "Fabrikant",
                 "rating": "Rating",
                 "title": "Specificatie"
             },
             "overview": {
                 "category": "Categorie",
-                "description": "Beschrijving",
-                "price": "Prijs",
-                "manufacturer": "Fabrikant",
                 "rating": "Rating",
                 "title": "Overzicht"
             }
         },
         "offcanvas": {
-            "continueShopping": "Doorgaan met winkelen",
             "compareNow": "Vergelijk nu",
             "header": "Te vergelijken producten"
         },
