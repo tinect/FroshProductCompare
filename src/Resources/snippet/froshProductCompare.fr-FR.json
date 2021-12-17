@@ -1,1 +1,38 @@
-{}
+{
+    "froshProductCompare": {
+        "section": {
+            "overview": {
+                "category": "Catégorie",
+                "description": "Description",
+                "price": "Prix",
+                "manufacturer": "Fabricant",
+                "rating": "Rating",
+                "title": "Aperçu"
+            },
+            "specification": {
+                "category": "Catégorie",
+                "description": "Description",
+                "price": "Prix",
+                "manufacturer": "Fabricant",
+                "rating": "Rating",
+                "title": "Spécifications"
+            }
+        },
+        "offcanvas": {
+            "continueShopping": "Continuer vos achats",
+            "compareNow": "Comparez maintenant",
+            "header": "Produits à comparer"
+        },
+        "action": {
+            "clearAll": "Tout effacer",
+            "print": "Imprimer"
+        },
+        "general": {
+            "empty": "Aucun produit n'a été ajouté à la comparaison",
+            "maximumCompareProducts": "Le nombre maximum de produits de référence est de 4",
+            "removeFromCompare": "Retirer de la comparaison",
+            "addToCompare": "Ajouter à la comparaison",
+            "headline": "Comparer les produits"
+        }
+    }
+}
