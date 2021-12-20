@@ -2,13 +2,10 @@
     "froshProductCompare": {
         "section": {
             "overview": {
-                "category": "Catégorie",
-                "rating": "Rating",
+                "rating": "Évaluation",
                 "title": "Aperçu"
             },
             "specification": {
-                "category": "Catégorie",
-                "rating": "Rating",
                 "title": "Spécifications"
             }
         },

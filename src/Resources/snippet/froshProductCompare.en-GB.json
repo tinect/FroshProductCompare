@@ -18,13 +18,10 @@
         "section": {
             "overview": {
                 "title": "Overview",
-                "rating": "Rating",
-                "category": "Category"
+                "rating": "Rating"
             },
             "specification": {
-                "title": "Specification",
-                "rating": "Rating",
-                "category": "Category"
+                "title": "Specification"
             }
         }
     }

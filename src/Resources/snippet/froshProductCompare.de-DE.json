@@ -18,13 +18,10 @@
         "section": {
             "overview": {
                 "title": "Überblick",
-                "rating": "Wertung",
-                "category": "Kategorie"
+                "rating": "Bewertung"
             },
             "specification": {
-                "title": "Spezifikation",
-                "rating": "Bewertung",
-                "category": "Kategorie"
+                "title": "Spezifikation"
             }
         }
     }

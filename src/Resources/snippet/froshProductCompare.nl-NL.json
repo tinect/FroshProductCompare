@@ -2,13 +2,10 @@
     "froshProductCompare": {
         "section": {
             "specification": {
-                "category": "Categorie",
-                "rating": "Rating",
                 "title": "Specificatie"
             },
             "overview": {
-                "category": "Categorie",
-                "rating": "Rating",
+                "rating": "Beoordeling",
                 "title": "Overzicht"
             }
         },
