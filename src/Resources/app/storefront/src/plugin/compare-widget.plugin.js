@@ -41,8 +41,7 @@ export default class CompareWidgetPlugin extends Plugin {
 
     renderCompareProducts(html) {
         this.el.querySelector('.compare-product-content').innerHTML = html;
-        PluginManager.initializePlugin('AddToCompareButton', '.compare-item-remove-button');
-        PluginManager.initializePlugin('AddToCart', '.buy-widget');
+        PluginManager.initializePlugins();
     }
 
     _registerEvents() {
