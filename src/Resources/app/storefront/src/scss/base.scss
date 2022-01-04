@@ -76,10 +76,6 @@
         visibility: hidden;
     }
 
-    body {
-        visibility: hidden;
-    }
-
     footer {
         visibility: visible;
     }
@@ -129,7 +125,7 @@
             > table {
                 border: 2px solid $border-color !important;
 
-                td {
+                td, th {
                     border: 2px solid $border-color !important;
                 }
             }
