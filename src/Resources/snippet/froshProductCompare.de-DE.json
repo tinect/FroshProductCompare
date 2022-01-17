@@ -1,24 +1,24 @@
 {
     "froshProductCompare": {
+        "action": {
+            "clearAll": "Alles löschen",
+            "print": "Drucken"
+        },
         "general": {
-            "headline": "Produkte vergleichen",
             "addToCompare": "Zum Vergleich hinzufügen",
-            "removeFromCompare": "Aus dem Vergleich entfernen",
+            "empty": "Bisher wurden keine Produkte zum Vergleich hinzugefügt.",
+            "headline": "Produkte vergleichen",
             "maximumCompareProducts": "Die maximale Anzahl von Vergleichsprodukten beträgt 4",
-            "empty": "Zum Vergleich wurde kein Produkt hinzugefügt"
+            "removeFromCompare": "Aus dem Vergleich entfernen"
         },
         "offcanvas": {
-            "header": "Produkte zum Vergleichen",
-            "compareNow": "Jetzt vergleichen"
-        },
-        "action": {
-            "print": "Drucken",
-            "clearAll": "Alles löschen"
+            "compareNow": "Jetzt vergleichen",
+            "header": "Produkte zum Vergleichen"
         },
         "section": {
             "overview": {
-                "title": "Überblick",
-                "rating": "Bewertung"
+                "rating": "Bewertung",
+                "title": "Überblick"
             },
             "specification": {
                 "title": "Spezifikation"

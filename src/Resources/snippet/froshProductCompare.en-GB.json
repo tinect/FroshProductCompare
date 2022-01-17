@@ -1,24 +1,24 @@
 {
     "froshProductCompare": {
+        "action": {
+            "clearAll": "Clear All",
+            "print": "Print"
+        },
         "general": {
-            "headline": "Compare products",
             "addToCompare": "Add to compare",
-            "removeFromCompare": "Remove from compare",
+            "empty": "No products have been added to compare yet.",
+            "headline": "Compare products",
             "maximumCompareProducts": "Maximum number of compare products is 4",
-            "empty": "No product is added to compare"
+            "removeFromCompare": "Remove from compare"
         },
         "offcanvas": {
-            "header": "Products to Compare",
-            "compareNow": "Compare Now"
-        },
-        "action": {
-            "print": "Print",
-            "clearAll": "Clear All"
+            "compareNow": "Compare Now",
+            "header": "Products to Compare"
         },
         "section": {
             "overview": {
-                "title": "Overview",
-                "rating": "Rating"
+                "rating": "Rating",
+                "title": "Overview"
             },
             "specification": {
                 "title": "Specification"
