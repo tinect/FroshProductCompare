@@ -1,28 +1,28 @@
 {
     "froshProductCompare": {
-        "section": {
-            "specification": {
-                "title": "Specificatie"
-            },
-            "overview": {
-                "rating": "Beoordeling",
-                "title": "Overzicht"
-            }
-        },
-        "offcanvas": {
-            "compareNow": "Vergelijk nu",
-            "header": "Te vergelijken producten"
-        },
         "action": {
             "clearAll": "Alles wissen",
             "print": "Afdrukken"
         },
         "general": {
-            "empty": "Er werd geen product toegevoegd ter vergelijking",
-            "maximumCompareProducts": "Het maximum aantal vergelijkingsproducten is 4",
-            "removeFromCompare": "Uit vergelijking verwijderen",
             "addToCompare": "Toevoegen ter vergelijking",
-            "headline": "Producten vergelijken"
+            "empty": "Er zijn nog geen producten toegevoegd om te vergelijken.",
+            "headline": "Producten vergelijken",
+            "maximumCompareProducts": "Het maximum aantal vergelijkingsproducten is 4",
+            "removeFromCompare": "Uit vergelijking verwijderen"
+        },
+        "offcanvas": {
+            "compareNow": "Vergelijk nu",
+            "header": "Te vergelijken producten"
+        },
+        "section": {
+            "overview": {
+                "rating": "Beoordeling",
+                "title": "Overzicht"
+            },
+            "specification": {
+                "title": "Specificatie"
+            }
         }
     }
 }
