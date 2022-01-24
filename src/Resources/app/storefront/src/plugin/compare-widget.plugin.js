@@ -1,5 +1,4 @@
 import Plugin from 'src/plugin-system/plugin.class';
-import PluginManager from 'src/plugin-system/plugin.manager';
 import HttpClient from 'src/service/http-client.service';
 import ElementLoadingIndicatorUtil from 'src/utility/loading-indicator/element-loading-indicator.util';
 import CompareLocalStorageHelper from '../helper/compare-local-storage.helper';
@@ -41,7 +40,7 @@ export default class CompareWidgetPlugin extends Plugin {
 
     renderCompareProducts(html) {
         this.el.querySelector('.compare-product-content').innerHTML = html;
-        PluginManager.initializePlugins();
+        window.PluginManager.initializePlugins();
     }
 
     _registerEvents() {
